@@ -1,0 +1,6 @@
+Model,Acc (%),Prec,Rec,F1,AUC
+Logistic Regression,73.429,0.759,0.645,0.697,0.818
+SVM,84.286,0.894,0.759,0.821,0.931
+Decision Tree,92.857,0.908,0.946,0.926,0.932
+Random Forest,94.286,0.968,0.91,0.938,0.989
+Stacking (Proposed),95.429,0.963,0.94,0.951,0.989
