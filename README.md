@@ -18,6 +18,7 @@
 </p>
 
 <h2>2. File Structure</h2>
+ [CODE_README.md](CODE_README.md) and main.py : code for the predictive model
 <ul>
   <li><code>StudentsResponses.csv</code> : Preprocessed dataset (1,953 rows, 16 columns)</li>
   <li><code>StudentsResponses.xlsx</code> : Preprocessed dataset (1,953 rows, 16 columns)</li>
